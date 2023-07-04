@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ desbravando bugs desde 2019<br>📚 Atualmente estou aprendendo sobre UX Design<br>🎲 Fun fact: Sou viciado em musica! me segue ai no spotify</p>
+<p align="left">✨ Desbravando bugs desde 2019<br>📚 Atualmente estou aprendendo sobre UX Design<br>🎲 Fun fact: Sou viciado em musica! me segue ai no spotify</p>
 
 ###
 
